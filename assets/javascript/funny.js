@@ -8,38 +8,32 @@ window.addEventListener("keydown", (event) => {
   if (event.ctrlKey && (event.key === "S" || event.key === "s")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy "
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   } 
 
   if (event.ctrlKey && (event.key === "C")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy "
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   }
   if (event.ctrlKey && (event.key === "E" || event.key === "e")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy horrored was here oh yeahhh .gg/chiterl hahha"
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   }
   if (event.ctrlKey && (event.key === "I" || event.key === "i" || event.key === "Ã„Â±")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy ";
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   }
   if (event.ctrlKey && (event.key === "K" || event.key === "k")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy ";
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   }
   if (event.ctrlKey && (event.key === "U" || event.key === "u")) {
     event.preventDefault();
     body[0].innerHTML = "nice try little nigga LOL >.< monkey nigga gang all the way grahhhhhh dumbyyyyy ";
-    openNewPage('https://www.google.com/search?q=what+is+my+ip'); 
     openNewPage('https://www.google.com/search?q=how+to+buy+child+porn');
   }
 });
